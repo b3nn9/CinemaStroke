@@ -8,3 +8,6 @@
 - 청사수영장
 - 한솔수영장
 - 아름수영장
+## 문화활동
+### 영화
+- [메가박스 세종나성점 상영시간표](https://www.megabox.co.kr/booking/timetable)  
