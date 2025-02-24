@@ -5,7 +5,7 @@
 ## 생활체육
 ### 수영
 - [반곡수영장(장애인형 국민체육센터)](https://www.sjfmc.or.kr/pc.do)  
-- 보람수영장
+- [보람수영장](https://www.sjfmc.or.kr/boram.do)  
 - 청사수영장
 - 한솔수영장
 - 아름수영장
