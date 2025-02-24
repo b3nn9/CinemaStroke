@@ -6,11 +6,11 @@
 -   
 ## 생활체육
 ### 수영
-- [반곡수영장(장애인형 국민체육센터)](https://www.sjfmc.or.kr/pc.do)  
-- [보람수영장](https://www.sjfmc.or.kr/boram.do)  
-- [청사수영장](https://www.sjcs-sporex.co.kr/)  
-- [한솔수영장](https://www.sj-sporex.co.kr/m0110004/1/)  
-- [아름수영장](https://www.sj-sporex.co.kr/m01/1/)  
+- [반곡수영장(장애인형 국민체육센터)](https://www.sjfmc.or.kr/pc.do): 일 / 26일(수) 5시반~ 추가접수  
+- [보람수영장](https://www.sjfmc.or.kr/boram.do): 토 / 26일(수) 5시반~ 추가접수  
+- [청사수영장](https://www.sjcs-sporex.co.kr/): 둘째-넷째 일 휴관 / 28일(금) 10시~ 추가접수  
+- [한솔수영장](https://www.sj-sporex.co.kr/m0110004/1/): 일 / 28일(금) 5시반~ 추가접수  
+- [아름수영장](https://www.sj-sporex.co.kr/m01/1/): 토   
 ## 문화활동
 ### 영화
 - [메가박스 세종나성점 상영시간표](https://www.megabox.co.kr/booking/timetable)  
