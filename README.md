@@ -9,12 +9,12 @@
 
 | 주말운영 | 수영장명 | 연락처 | 충전기 | 비고 |  
 |:--------|:--------:|:------|:------|:------|
-| 토 06-17 | [보람수영장](https://www.sjfmc.or.kr/boram.do) | 044-850-1284~5 | 한화100kW동시, 채비50kW멀티,<br>한전100kW | 26일(수) 5시반~ |
-| 토 09-17 | [아름수영장](https://www.sj-sporex.co.kr/m01/1/) | 044-868-8707 | 채비50kW멀티, 에버온7kW | 27일(금) 5시반~ |
-| 일  | [반곡수영장<br>(장애인형 국민체육센터)](https://www.sjfmc.or.kr/pc.do) |  | 블루네트웍스50kW동시<br>(반곡동 광역복지센터) | 21일(월) 신규 회원 모집공고 |
-| 일 06-16:50 | [한솔수영장](https://www.sj-sporex.co.kr/m0110004/1/) | 044-865-9501 | 환경부100kW동시 | 없음 |
-| 2.4주 일휴관 | [청사수영장](https://www.sjcs-sporex.co.kr/) |  | SK일렉링크100kW동시(지하1층),<br>7x7kW(지하2층) | 28일(금) 10시~ |
+| 토 06-17 | [보람수영장](https://www.sjfmc.or.kr/boram.do){:target="_blank"} | 044-850-1284~5 | 한화100kW동시, 채비50kW멀티,<br>한전100kW | 26일(수) 5시반~ |
+| 토 09-17 | [아름수영장](https://www.sj-sporex.co.kr/m01/1/){:target="_blank"} | 044-868-8707 | 채비50kW멀티, 에버온7kW | 27일(금) 5시반~ |
+| 일  | [반곡수영장<br>(장애인형 국민체육센터)](https://www.sjfmc.or.kr/pc.do){:target="_blank"} |  | 블루네트웍스50kW동시<br>(반곡동 광역복지센터) | 21일(월) 신규 회원 모집공고 |
+| 일 06-16:50 | [한솔수영장](https://www.sj-sporex.co.kr/m0110004/1/){:target="_blank"} | 044-865-9501 | 환경부100kW동시 | 없음 |
+| 2.4주 일휴관 | [청사수영장](https://www.sjcs-sporex.co.kr/){:target="_blank"} |  | SK일렉링크100kW동시(지하1층),<br>7x7kW(지하2층) | 28일(금) 10시~ |
 
 ## 문화활동
 ### 영화
-- [메가박스 세종나성점 상영시간표](https://www.megabox.co.kr/booking/timetable)  
+- [메가박스 세종나성점 상영시간표](https://www.megabox.co.kr/booking/timetable){:target="_blank"}  
