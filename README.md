@@ -13,7 +13,7 @@
 | 토 09-17 | <a href="https://www.sj-sporex.co.kr/m01/1/" target="_blank" rel="noopener noreferrer">아름수영장</a> | 044-868-8707 | 채비50kW멀티, 에버온7kW | 27일(금) 5시반~ |
 | 일  | <a href="https://www.sjfmc.or.kr/pc.do" target="_blank" rel="noopener noreferrer">반곡수영장<br>(장애인형 국민체육센터)</a> |  | 블루네트웍스50kW동시<br>(반곡동 광역복지센터) | 21일(월) 신규 회원 모집공고 |
 | 일 06-16:50 | <a href="https://www.sj-sporex.co.kr/m0110004/1/" target="_blank" rel="noopener noreferrer">한솔수영장</a> | 044-865-9501 | 환경부100kW동시 | 없음 |
-| 2.4주 일휴관 | <a href="https://www.sj-sporex.co.kr/m0110004/1/" target="_blank" rel="noopener noreferrer">청사수영장</a> |  | SK일렉링크100kW동시(지하1층),<br>7x7kW(지하2층) | 28일(금) 10시~ |
+| 2.4주 일휴관 | <a href="https://www.sjcs-sporex.co.kr/" target="_blank" rel="noopener noreferrer">청사수영장</a> |  | SK일렉링크100kW동시(지하1층),<br>7x7kW(지하2층) | 28일(금) 10시~ |
 
 ## 문화활동
 ### 영화
